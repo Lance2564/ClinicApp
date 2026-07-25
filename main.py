@@ -379,9 +379,9 @@ def run_main():
         "10. Delete Doctor by Doctor ID",
         "11. Reschedule Appointment",
         "12. View All Records",
-        "13. Wipe Database",
-        "14. Edit Patient",
-        "15. Edit Doctor",
+        "13. Edit Patient",
+        "14. Edit Doctor",
+        "15. Wipe Databases",
         "16. Exit",
     ]
 
