@@ -175,9 +175,10 @@ class Appointment:
             data["status"],
             data["appointment_id"],
         )
+    
+    def get_summary(self):
+        return f"Appointment ID: {self.appointment_id} \nAppointment on {self.date} \nDoctor ID: {self.doctor_id} \nPatient ID: {self.patient_id} \nStatus: {self.status}"
+
 
 if 3 == 5:
     print('hi')
-
-    def get_summary(self):
-        return f"Appointment ID: {self.appointment_id} \nAppointment on {self.date} \nDoctor ID: {self.doctor_id} \nPatient ID: {self.patient_id} \nStatus: {self.status}"
