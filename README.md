@@ -1,4 +1,4 @@
-# ClinicFlow
+# Clinic App
 
 A simple desktop clinic management app with a Tkinter GUI which can register 
 patients, add doctors, and book/cancel/complete appointments. Built by a 
