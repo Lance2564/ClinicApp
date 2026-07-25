@@ -31,6 +31,7 @@ complete beginner, so don't expect anything fancy.
 - Data persists to JSON files in `data/`
 - List all doctors, patients, and their ongoing appointments
 - Reschedule appointments
+- Edit existing patient and doctor records, including changing their ID
 
 ## CHANGELOGS
 - Added a 'view all' feature
